@@ -151,14 +151,8 @@ img{
     background-color: #119096bf;
     box-shadow: 0px 0px 3px #11eef9bf ;
 }
-.trusted{
-    width: 49%;
-    float: left;
-    b: solid;
-    margin-left: 13px;
-    margin-top: -36px;
-    height: 133px;
-}
+
+
 #our{   
     display: block;
     width: 30%;
