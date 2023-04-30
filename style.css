@@ -62,7 +62,7 @@ ul li:hover{
     font-size: 160%;
     position: relative;
     top:-2cm;
-    margin-left: 10%;
+    margin-left: 6%;
     opacity: 100%;
 }
 img{
@@ -71,7 +71,7 @@ img{
 #main{
     /* display: flex; */
     font-size: 400%;
-    margin-left: 20%;
+    margin-left: 12%;
     color: yellow;
 
 }
