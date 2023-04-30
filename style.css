@@ -96,8 +96,8 @@ img{
     outline: white;
     border: none;
     cursor: pointer;
-    margin-left: 5%;
-    margin-right: -8px;
+    margin-left: 0%;
+    margin-right: 58px;
     box-shadow: 0px 0px 10px #11eef9bf;
     border-radius: 0.5rem;
     transition: .2s ease-in-out;
